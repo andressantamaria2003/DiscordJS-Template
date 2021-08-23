@@ -1,0 +1,28 @@
+{
+  "name": "discord.js-v13-template",
+  "version": "1.0.0",
+  "description": "A simple discord.js v13 template",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andressantamaria2003/DiscordJS-Template.git"
+  },
+  "keywords": [
+    "discord.js",
+    "v13",
+    "v13"
+  ],
+  "author": "ΛПDЯӨID#2559",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andressantamaria2003/DiscordJS-Template/issues"
+  },
+  "homepage": "https://github.com/andressantamaria2003/DiscordJS-Template#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "fs": "^0.0.1-security"
+  }
+}
